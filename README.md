@@ -1,2 +1,2 @@
-# tugboat
-Web Scraping and Analysis in Akka/Scala
+# TugBoat
+Information Retrieval, Web Scraping, and Analysis in Akka/Scala
